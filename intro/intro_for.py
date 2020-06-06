@@ -25,7 +25,7 @@
 
 # 2-1. list for
 #number = [10,9,8,7,6,5,4,3,2,1,0]
-#for num in number:
+#for num in number :
 #    print
 number = ['삼성', '역삼', '선릉', '일산']
 # 2-2. idx로 접근하고 싶어요
